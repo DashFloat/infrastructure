@@ -1,0 +1,4 @@
+config:
+  dashfloat:nodesPerZone: "1"
+  gcp:project: dashfloat-405421
+  gcp:region: asia-southeast1-a
